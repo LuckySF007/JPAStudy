@@ -1,0 +1,2 @@
+# JPAStudy
+SpringBoot, JPA, Thymeleaf
