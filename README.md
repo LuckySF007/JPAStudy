@@ -19,7 +19,7 @@ SSAFY 7th JPA 스터디
   <summary><h2>자바 ORM 표준 JPA 프로그래밍 - 기본편</h2></summary>
 <div markdown="1"> 
 
-|       |           섹션            |  김성수  |  김영환  |  오상빈  |  유일권  |  최종수  |  최주희  |
+|       |           섹션            |  김성수  |  김영환  |  삼성맨  |  유일권  |  최종수  |  최주희  |
 | :---- | ------------------------ | :----: | :----: | :----: | :----: | :----: | :----: |
 | 06/27 | 01.JPA 소개 | [🎎]() | [🦭](https://bit.ly/3y19TDs) |  [♬](https://han.gl/LLWNr) | [🏃‍♂️](https://han.gl/ViCYS) | [🚗](https://han.gl/aqvwU) | [🍮](https://han.gl/SiXBY) |
 | 06/27 | 02.JPA 시작하기 | [🎨]() | [🐎](https://bit.ly/3ypUGO0) |  [★](https://han.gl/oFaKB) | [🏃‍♀️](https://han.gl/VDuTc) | [🚓](https://han.gl/ugOjJ) | [😎](https://han.gl/nRDfb) |
