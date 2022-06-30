@@ -19,14 +19,14 @@ SSAFY 7th JPA 스터디
   <summary><h2>자바 ORM 표준 JPA 프로그래밍 - 기본편</h2></summary>
 <div markdown="1"> 
 
-|       |           섹션            |  김성수  |  김영환  |  오상빈  |  유일권  |  최종수  |  최주희  |
+|       |           섹션            |  김성수  |  김영환  |  삼성맨  |  유일권  |  최종수  |  최주희  |
 | :---- | ------------------------ | :----: | :----: | :----: | :----: | :----: | :----: |
 | 06/27 | 01.JPA 소개 | [🎎]() | [🦭](https://bit.ly/3y19TDs) |  [♬](https://han.gl/LLWNr) | [🏃‍♂️](https://han.gl/ViCYS) | [🚗](https://han.gl/aqvwU) | [🍮](https://han.gl/SiXBY) |
 | 06/27 | 02.JPA 시작하기 | [🎨]() | [🐎](https://bit.ly/3ypUGO0) |  [★](https://han.gl/oFaKB) | [🏃‍♀️](https://han.gl/VDuTc) | [🚓](https://han.gl/ugOjJ) | [😎](https://han.gl/nRDfb) |
 | 06/28 | 03.영속성 관리 - 내부 동작 방식 | [💎]() | [🐈](https://bit.ly/3nqygpv) |  [♣](https://han.gl/BrmZt) | [🏎](https://han.gl/TKuFf) | [🚕](https://han.gl/rquOM) | [🐹](https://han.gl/NexVL) |
-| 06/28 | 04.엔티티 매핑 (~ 필드,컬럼 매핑) | []() | [🐕]() |  []() | [🚄]() | []() | [🔥]() |
-| 06/29 | 04.엔티티 매핑 (기본키 매핑 ~) | []() | []() | []() | []() | []() | []() |
-| 06/29 | 05장.연관관계 매핑 기초 (~섹션 두번째 강의) | []() | []() | []() | []() | []() | []() |
+| 06/28 | 04.엔티티 매핑 (~ 필드,컬럼 매핑) | []() | [🐕]() |  [◎](https://han.gl/PwqvG) | [🚄]() | [🛺](https://han.gl/Bhcry) | [🔥](https://han.gl/skCDC) |
+| 06/29 | 04.엔티티 매핑 (기본키 매핑 ~) | []() | []() | []() | []() | [🚙](https://han.gl/jVRCe) | [👻](https://han.gl/skCDC) |
+| 06/29 | 05장.연관관계 매핑 기초 (~섹션 두번째 강의) | []() | []() | []() | []() | []() | [🤡]() |
 
 </div>
 </details>
