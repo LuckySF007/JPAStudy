@@ -19,26 +19,38 @@ SSAFY 7th JPA 스터디
   <summary><h2>자바 ORM 표준 JPA 프로그래밍 - 기본편</h2></summary>
 <div markdown="1"> 
 
-|       |           섹션            |  김성수  |  김영환  |  삼성맨  |  유일권  |  최종수  |  최주희  |
+|       |           섹션            |  김성수  |  김영환  |  오상빈  |  유일권  |  최종수  |  최주희  |
 | :---- | ------------------------ | :----: | :----: | :----: | :----: | :----: | :----: |
 | 06/27 | 01.JPA 소개 | [🎎]() | [🦭](https://bit.ly/3y19TDs) |  [♬](https://han.gl/LLWNr) | [🏃‍♂️](https://han.gl/ViCYS) | [🚗](https://han.gl/aqvwU) | [🍮](https://han.gl/SiXBY) |
 | 06/27 | 02.JPA 시작하기 | [🎨]() | [🐎](https://bit.ly/3ypUGO0) |  [★](https://han.gl/oFaKB) | [🏃‍♀️](https://han.gl/VDuTc) | [🚓](https://han.gl/ugOjJ) | [😎](https://han.gl/nRDfb) |
 | 06/28 | 03.영속성 관리 - 내부 동작 방식 | [💎]() | [🐈](https://bit.ly/3nqygpv) |  [♣](https://han.gl/BrmZt) | [🏎](https://han.gl/TKuFf) | [🚕](https://han.gl/rquOM) | [🐹](https://han.gl/NexVL) |
 | 06/28 | 04.엔티티 매핑 (~ 필드,컬럼 매핑) | []() | [🐕](https://bit.ly/3RiOCOE) |  [◎](https://han.gl/PwqvG) | [🚄](https://han.gl/eDrEd) | [🛺](https://han.gl/Bhcry) | [🔥](https://han.gl/skCDC) |
-| 06/29 | 04.엔티티 매핑 (기본키 매핑 ~) | []() | [☕️](https://bit.ly/3RiOCOE) | []() | [🚀](https://han.gl/eDrEd) | [🚙](https://han.gl/jVRCe) | [👻](https://han.gl/skCDC) |
-| 06/29 | 05장.연관관계 매핑 기초 (~섹션 두번째 강의) | []() | [🍵](https://bit.ly/3nS7RAU) | []() | [☂](https://han.gl/OEWll) | [🚌](https://han.gl/ZXxTf) | [🤡](https://han.gl/zXvnT) |
-| 06/30 | 05장.연관관계 매핑 기초 (섹션 세번째 강의~) | []() | [🍪](https://bit.ly/3nS7RAU) | []() | [✨](https://han.gl/OEWll) | [🚐](https://han.gl/NQQPj) | [🐰](https://han.gl/zXvnT) |
-| 06/30 | 06장.다양한 연관관계 매핑 (~섹션 세번째 강의) | []() | [🍫](https://bit.ly/3nNVINC) | []() | [🎱](https://han.gl/QCAyM) | [🚎](https://han.gl/CpvDB) | [🍓](https://han.gl/zMZHX) |
-| 07/01 | 06장.다양한 연관관계 매핑 (섹션 세번째 강의~) | []() | [🍱](https://bit.ly/3nNVINC) | []() | [🥏](https://han.gl/QCAyM) | [🚎](https://han.gl/CpvDB) | [😾](https://han.gl/zMZHX) |
-| 07/01 | 07장.고급 매핑 | []() | [🏰](https://bit.ly/3o5ANWB) | []() | [🕵️‍♂️](https://han.gl/uczae) | [🚑](https://han.gl/iZyAO) | [🫠](https://han.gl/NspBe) |
-| 07/05 | 08장.프록시와 연관관계 관리 | []() | [🐋](https://bit.ly/3yrs9pP) | []() | [🥊](https://han.gl/XtQUq) | [🚒](https://han.gl/VoitD) | [🧚](https://han.gl/AStOF) |
-| 07/06 | 09장.값 타입 | []() | []() | []() | [💾](https://han.gl/gTcmH) | [🚚](https://han.gl/hEkEa) | [😍](https://han.gl/xXdkE) |
-| 07/07 | 10장.객체지향 쿼리 언어1 - 기본 문법 | []() | []() | []() | []() | [🚛](https://han.gl/ywQEC) | [🥳](https://han.gl/LzNKr) |
-| 07/08 | 11장.객체지향 쿼리 언어2 - 중급 문법 | []() | []() | []() | []() | [🚜](https://han.gl/xjOtL) | [👏](https://han.gl/JXxVt) |
+| 06/29 | 04.엔티티 매핑 (기본키 매핑 ~) | []() | [☕️](https://bit.ly/3RiOCOE) | [-]() | [🚀](https://han.gl/eDrEd) | [🚙](https://han.gl/jVRCe) | [👻](https://han.gl/skCDC) |
+| 06/29 | 05장.연관관계 매핑 기초 (~섹션 두번째 강의) | []() | [🍵](https://bit.ly/3nS7RAU) | [-]() | [☂](https://han.gl/OEWll) | [🚌](https://han.gl/ZXxTf) | [🤡](https://han.gl/zXvnT) |
+| 06/30 | 05장.연관관계 매핑 기초 (섹션 세번째 강의~) | []() | [🍪](https://bit.ly/3nS7RAU) | [-]() | [✨](https://han.gl/OEWll) | [🚐](https://han.gl/NQQPj) | [🐰](https://han.gl/zXvnT) |
+| 06/30 | 06장.다양한 연관관계 매핑 (~섹션 세번째 강의) | []() | [🍫](https://bit.ly/3nNVINC) | [-]() | [🎱](https://han.gl/QCAyM) | [🚎](https://han.gl/CpvDB) | [🍓](https://han.gl/zMZHX) |
+| 07/01 | 06장.다양한 연관관계 매핑 (섹션 세번째 강의~) | []() | [🍱](https://bit.ly/3nNVINC) | [-]() | [🥏](https://han.gl/QCAyM) | [🚎](https://han.gl/CpvDB) | [😾](https://han.gl/zMZHX) |
+| 07/01 | 07장.고급 매핑 | []() | [🏰](https://bit.ly/3o5ANWB) | [-]() | [🕵️‍♂️](https://han.gl/uczae) | [🚑](https://han.gl/iZyAO) | [🫠](https://han.gl/NspBe) |
+| 07/05 | 08장.프록시와 연관관계 관리 | []() | [🐋](https://bit.ly/3yrs9pP) | [-]() | [🥊](https://han.gl/XtQUq) | [🚒](https://han.gl/VoitD) | [🧚](https://han.gl/AStOF) |
+| 07/06 | 09장.값 타입 | []() | []() | [-]() | [💾](https://han.gl/gTcmH) | [🚚](https://han.gl/hEkEa) | [😍](https://han.gl/xXdkE) |
+| 07/07 | 10장.객체지향 쿼리 언어1 - 기본 문법 | []() | []() | [-]() | []() | [🚛](https://han.gl/ywQEC) | [🥳](https://han.gl/LzNKr) |
+| 07/08 | 11장.객체지향 쿼리 언어2 - 중급 문법 | []() | []() | [-]() | []() | [🚜](https://han.gl/xjOtL) | [👏](https://han.gl/JXxVt) |
 
 </div>
 </details>
 
+<details>
+  <summary><h2>실전! 스프링 부트와 JPA 활용1 - 웹 애플리케이션 개발</h2></summary>
+<div markdown="1"> 
+
+|       |           섹션            |  김성수  |  김영환  |  유일권  |  최종수  |  최주희  |
+| :---- | ------------------------ | :----: | :----: | :----: | :----: | :----: |
+| 07/13 | 01.프로젝트 환경설정 | []() | []() | []() | []() | []() |
+| 07/14 |  | []() | []() | []() | []() | []() |
+| 07/15 |  | []() | []() | []() | []() | []() |
+
+</div>
+</details>
 
 <!--URL 짧게 변환 https://han.gl/ -->
 <!-- | Date | N장.Title - Subtitle | []() | []() | []() | -->
@@ -52,7 +64,6 @@ SSAFY 7th JPA 스터디
   <tr>
     <td align="center"><a href="https://github.com/platycodonv"><img src="https://avatars.githubusercontent.com/u/93230885?v=4" width="100px;" alt=""/><br /><sub><b>platycodonv</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/younghwani"><img src="https://avatars.githubusercontent.com/u/75962307?v=4" width="100px;" alt=""/><br /><sub><b>younghwani</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/OSangKong"><img src="https://avatars.githubusercontent.com/u/105689752?v=4" width="100px;" alt=""/><br /><sub><b>OSangKong</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/Qulip"><img src="https://avatars.githubusercontent.com/u/77991314?v=4" width="100px;" alt=""/><br /><sub><b>Qulip</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/js0828"><img src="https://avatars.githubusercontent.com/u/68577534?v=4" width="100px;" alt=""/><br /><sub><b>js0828</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/choijoohee213"><img src="https://avatars.githubusercontent.com/u/60915285?s=400&u=81a3a3b178d0b215fd7a2c72bcf2d1834cb815e9&v=4" width="100px;" alt=""/><br /><sub><b>choijoohee213</b></sub></a><br /></td>
