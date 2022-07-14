@@ -24,15 +24,15 @@ SSAFY 7th JPA 스터디
 | 06/27 | 01.JPA 소개 | [🎎]() | [🦭](https://bit.ly/3y19TDs) |  [♬](https://han.gl/LLWNr) | [🏃‍♂️](https://han.gl/ViCYS) | [🚗](https://han.gl/aqvwU) | [🍮](https://han.gl/SiXBY) |
 | 06/27 | 02.JPA 시작하기 | [🎨]() | [🐎](https://bit.ly/3ypUGO0) |  [★](https://han.gl/oFaKB) | [🏃‍♀️](https://han.gl/VDuTc) | [🚓](https://han.gl/ugOjJ) | [😎](https://han.gl/nRDfb) |
 | 06/28 | 03.영속성 관리 - 내부 동작 방식 | [💎]() | [🐈](https://bit.ly/3nqygpv) |  [♣](https://han.gl/BrmZt) | [🏎](https://han.gl/TKuFf) | [🚕](https://han.gl/rquOM) | [🐹](https://han.gl/NexVL) |
-| 06/28 | 04.엔티티 매핑 (~ 필드,컬럼 매핑) | []() | [🐕](https://bit.ly/3RiOCOE) |  [◎](https://han.gl/PwqvG) | [🚄](https://han.gl/eDrEd) | [🛺](https://han.gl/Bhcry) | [🔥](https://han.gl/skCDC) |
-| 06/29 | 04.엔티티 매핑 (기본키 매핑 ~) | []() | [☕️](https://bit.ly/3RiOCOE) | [-]() | [🚀](https://han.gl/eDrEd) | [🚙](https://han.gl/jVRCe) | [👻](https://han.gl/skCDC) |
-| 06/29 | 05장.연관관계 매핑 기초 (~섹션 두번째 강의) | []() | [🍵](https://bit.ly/3nS7RAU) | [-]() | [☂](https://han.gl/OEWll) | [🚌](https://han.gl/ZXxTf) | [🤡](https://han.gl/zXvnT) |
-| 06/30 | 05장.연관관계 매핑 기초 (섹션 세번째 강의~) | []() | [🍪](https://bit.ly/3nS7RAU) | [-]() | [✨](https://han.gl/OEWll) | [🚐](https://han.gl/NQQPj) | [🐰](https://han.gl/zXvnT) |
-| 06/30 | 06장.다양한 연관관계 매핑 (~섹션 세번째 강의) | []() | [🍫](https://bit.ly/3nNVINC) | [-]() | [🎱](https://han.gl/QCAyM) | [🚎](https://han.gl/CpvDB) | [🍓](https://han.gl/zMZHX) |
-| 07/01 | 06장.다양한 연관관계 매핑 (섹션 세번째 강의~) | []() | [🍱](https://bit.ly/3nNVINC) | [-]() | [🥏](https://han.gl/QCAyM) | [🚎](https://han.gl/CpvDB) | [😾](https://han.gl/zMZHX) |
-| 07/01 | 07장.고급 매핑 | []() | [🏰](https://bit.ly/3o5ANWB) | [-]() | [🕵️‍♂️](https://han.gl/uczae) | [🚑](https://han.gl/iZyAO) | [🫠](https://han.gl/NspBe) |
-| 07/05 | 08장.프록시와 연관관계 관리 | []() | [🐋](https://bit.ly/3yrs9pP) | [-]() | [🥊](https://han.gl/XtQUq) | [🚒](https://han.gl/VoitD) | [🧚](https://han.gl/AStOF) |
-| 07/06 | 09장.값 타입 | []() | [🦈](https://bit.ly/3IAOPZA) | [-]() | [💾](https://han.gl/gTcmH) | [🚚](https://han.gl/hEkEa) | [😍](https://han.gl/xXdkE) |
+| 06/28 | 04.엔티티 매핑 (~ 필드,컬럼 매핑) | [🎗]() | [🐕](https://bit.ly/3RiOCOE) |  [◎](https://han.gl/PwqvG) | [🚄](https://han.gl/eDrEd) | [🛺](https://han.gl/Bhcry) | [🔥](https://han.gl/skCDC) |
+| 06/29 | 04.엔티티 매핑 (기본키 매핑 ~) | [🧵]() | [☕️](https://bit.ly/3RiOCOE) | [-]() | [🚀](https://han.gl/eDrEd) | [🚙](https://han.gl/jVRCe) | [👻](https://han.gl/skCDC) |
+| 06/29 | 05장.연관관계 매핑 기초 (~섹션 두번째 강의) | [🥼]() | [🍵](https://bit.ly/3nS7RAU) | [-]() | [☂](https://han.gl/OEWll) | [🚌](https://han.gl/ZXxTf) | [🤡](https://han.gl/zXvnT) |
+| 06/30 | 05장.연관관계 매핑 기초 (섹션 세번째 강의~) | [💎]() | [🍪](https://bit.ly/3nS7RAU) | [-]() | [✨](https://han.gl/OEWll) | [🚐](https://han.gl/NQQPj) | [🐰](https://han.gl/zXvnT) |
+| 06/30 | 06장.다양한 연관관계 매핑 (~섹션 세번째 강의) | [🏆]() | [🍫](https://bit.ly/3nNVINC) | [-]() | [🎱](https://han.gl/QCAyM) | [🚎](https://han.gl/CpvDB) | [🍓](https://han.gl/zMZHX) |
+| 07/01 | 06장.다양한 연관관계 매핑 (섹션 세번째 강의~) | [🧸]() | [🍱](https://bit.ly/3nNVINC) | [-]() | [🥏](https://han.gl/QCAyM) | [🚎](https://han.gl/CpvDB) | [😾](https://han.gl/zMZHX) |
+| 07/01 | 07장.고급 매핑 | [📣]() | [🏰](https://bit.ly/3o5ANWB) | [-]() | [🕵️‍♂️](https://han.gl/uczae) | [🚑](https://han.gl/iZyAO) | [🫠](https://han.gl/NspBe) |
+| 07/05 | 08장.프록시와 연관관계 관리 | [🎶]() | [🐋](https://bit.ly/3yrs9pP) | [-]() | [🥊](https://han.gl/XtQUq) | [🚒](https://han.gl/VoitD) | [🧚](https://han.gl/AStOF) |
+| 07/06 | 09장.값 타입 | [⌛]() | [🦈](https://bit.ly/3IAOPZA) | [-]() | [💾](https://han.gl/gTcmH) | [🚚](https://han.gl/hEkEa) | [😍](https://han.gl/xXdkE) |
 | 07/07 | 10장.객체지향 쿼리 언어1 - 기본 문법 | []() | [🐬](https://bit.ly/3o5H309) | [-]() | []() | [🚛](https://han.gl/ywQEC) | [🥳](https://han.gl/LzNKr) |
 | 07/08 | 11장.객체지향 쿼리 언어2 - 중급 문법 | []() | [🐳](https://bit.ly/3O21V2X) | [-]() | []() | [🚜](https://han.gl/xjOtL) | [👏](https://han.gl/JXxVt) |
 
