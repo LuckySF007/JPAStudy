@@ -34,7 +34,7 @@ SSAFY 7th JPA 스터디
 | 07/05 | 08장.프록시와 연관관계 관리 | [🎶]() | [🐋](https://bit.ly/3yrs9pP) | [-]() | [🥊](https://han.gl/XtQUq) | [🚒](https://han.gl/VoitD) | [🧚](https://han.gl/AStOF) |
 | 07/06 | 09장.값 타입 | [⌛]() | [🦈](https://bit.ly/3IAOPZA) | [-]() | [💾](https://han.gl/gTcmH) | [🚚](https://han.gl/hEkEa) | [😍](https://han.gl/xXdkE) |
 | 07/07 | 10장.객체지향 쿼리 언어1 - 기본 문법 | []() | [🐬](https://bit.ly/3o5H309) | [-]() | [🤦‍♀️](https://han.gl/PPQMd) | [🚛](https://han.gl/ywQEC) | [🥳](https://han.gl/LzNKr) |
-| 07/08 | 11장.객체지향 쿼리 언어2 - 중급 문법 | []() | [🐳](https://bit.ly/3O21V2X) | [-]() | []() | [🚜](https://han.gl/xjOtL) | [👏](https://han.gl/JXxVt) |
+| 07/08 | 11장.객체지향 쿼리 언어2 - 중급 문법 | []() | [🐳](https://bit.ly/3O21V2X) | [-]() | [✌](https://han.gl/WYeDc) | [🚜](https://han.gl/xjOtL) | [👏](https://han.gl/JXxVt) |
 
 </div>
 </details>
