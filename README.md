@@ -33,8 +33,8 @@ SSAFY 7th JPA 스터디
 | 07/01 | 07장.고급 매핑 | [📣]() | [🏰](https://bit.ly/3o5ANWB) | [-]() | [🕵️‍♂️](https://han.gl/uczae) | [🚑](https://han.gl/iZyAO) | [🫠](https://han.gl/NspBe) |
 | 07/05 | 08장.프록시와 연관관계 관리 | [🎶]() | [🐋](https://bit.ly/3yrs9pP) | [-]() | [🥊](https://han.gl/XtQUq) | [🚒](https://han.gl/VoitD) | [🧚](https://han.gl/AStOF) |
 | 07/06 | 09장.값 타입 | [⌛]() | [🦈](https://bit.ly/3IAOPZA) | [-]() | [💾](https://han.gl/gTcmH) | [🚚](https://han.gl/hEkEa) | [😍](https://han.gl/xXdkE) |
-| 07/07 | 10장.객체지향 쿼리 언어1 - 기본 문법 | []() | [🐬](https://bit.ly/3o5H309) | [-]() | []() | [🚛](https://han.gl/ywQEC) | [🥳](https://han.gl/LzNKr) |
-| 07/08 | 11장.객체지향 쿼리 언어2 - 중급 문법 | []() | [🐳](https://bit.ly/3O21V2X) | [-]() | []() | [🚜](https://han.gl/xjOtL) | [👏](https://han.gl/JXxVt) |
+| 07/07 | 10장.객체지향 쿼리 언어1 - 기본 문법 | []() | [🐬](https://bit.ly/3o5H309) | [-]() | [🤦‍♀️](https://han.gl/PPQMd) | [🚛](https://han.gl/ywQEC) | [🥳](https://han.gl/LzNKr) |
+| 07/08 | 11장.객체지향 쿼리 언어2 - 중급 문법 | []() | [🐳](https://bit.ly/3O21V2X) | [-]() | [✌](https://han.gl/WYeDc) | [🚜](https://han.gl/xjOtL) | [👏](https://han.gl/JXxVt) |
 
 </div>
 </details>
@@ -43,11 +43,13 @@ SSAFY 7th JPA 스터디
   <summary><h2>실전! 스프링 부트와 JPA 활용1 - 웹 애플리케이션 개발</h2></summary>
 <div markdown="1"> 
 
-|       |           섹션            |  김성수  |  김영환  |  유일권  |  최종수  |  최주희  |
-| :---- | ------------------------ | :----: | :----: | :----: | :----: | :----: |
-| 07/13 | 01.프로젝트 환경설정 | []() | [❄️](https://bit.ly/3RuyvgS) | []() | []() | []() |
-| 07/14 |  | []() | []() | []() | []() | []() |
-| 07/15 |  | []() | []() | []() | []() | []() |
+|       |           섹션            |  김성수  |  김영환  |  유일권  |  윤석찬  |  최종수  |  최주희  |
+| :---- | ------------------------ | :----: | :----: | :----: | :----: | :----: | :----: |
+| 07/13 | 01.프로젝트 환경설정 | [💥]() | [❄️](https://bit.ly/3RuyvgS) | []() | []() | [🚘](https://han.gl/nzxHG) | [😶](https://han.gl/lvyRU) |
+| 07/14 | 02.도메인 분석 설계 | [✨]() | []() | []() | [🐥](https://han.gl/KSqBu) | []() | [✈️](https://han.gl/janWx) |
+| 07/18 |  03.애플리케이션 구현 준비 | [🚀]() | []() | []() | []() | []() | 🎯 |
+| 07/18 |  04.회언 도메인 개발 | []() | []() | []() | []() | []() | [⚽️](https://han.gl/Qvvja) |
+| 07/18 |  05.상품 도메인 개발 | []() | []() | []() | []() | []() | 🏀 |
 
 </div>
 </details>
@@ -65,8 +67,9 @@ SSAFY 7th JPA 스터디
     <td align="center"><a href="https://github.com/platycodonv"><img src="https://avatars.githubusercontent.com/u/93230885?v=4" width="100px;" alt=""/><br /><sub><b>platycodonv</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/younghwani"><img src="https://avatars.githubusercontent.com/u/75962307?v=4" width="100px;" alt=""/><br /><sub><b>younghwani</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/Qulip"><img src="https://avatars.githubusercontent.com/u/77991314?v=4" width="100px;" alt=""/><br /><sub><b>Qulip</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/seokchain"><img src="https://avatars.githubusercontent.com/u/98997009?v=4" width="100px;" alt=""/><br /><sub><b>seokchain</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/js0828"><img src="https://avatars.githubusercontent.com/u/68577534?v=4" width="100px;" alt=""/><br /><sub><b>js0828</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/choijoohee213"><img src="https://avatars.githubusercontent.com/u/60915285?s=400&u=81a3a3b178d0b215fd7a2c72bcf2d1834cb815e9&v=4" width="100px;" alt=""/><br /><sub><b>choijoohee213</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/seokchain"><img src="https://avatars.githubusercontent.com/u/98997009?v=4" width="100px;" alt=""/><br /><sub><b>seokchain</b></sub></a><br /></td>
+    
   </tr>
 </table>
