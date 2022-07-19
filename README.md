@@ -46,10 +46,12 @@ SSAFY 7th JPA 스터디
 |       |           섹션            |  김성수  |  김영환  |  유일권  |  윤석찬  |  최종수  |  최주희  |
 | :---- | ------------------------ | :----: | :----: | :----: | :----: | :----: | :----: |
 | 07/13 | 01.프로젝트 환경설정 | [💥]() | [❄️](https://bit.ly/3RuyvgS) | []() | []() | [🚘](https://han.gl/nzxHG) | [😶](https://han.gl/lvyRU) |
-| 07/14 | 02.도메인 분석 설계 | [✨]() | []() | []() | [🐥](https://han.gl/KSqBu) | []() | [✈️](https://han.gl/janWx) |
-| 07/18 |  03.애플리케이션 구현 준비 | [🚀]() | []() | []() | []() | []() | 🎯 |
-| 07/18 |  04.회언 도메인 개발 | []() | []() | []() | []() | []() | [⚽️](https://han.gl/Qvvja) |
-| 07/18 |  05.상품 도메인 개발 | []() | []() | []() | []() | []() | 🏀 |
+| 07/14 | 02.도메인 분석 설계 | [✨]() | [🍁](https://bit.ly/3aMuAvq) | []() | [🐥](https://han.gl/KSqBu) | []() | [✈️](https://han.gl/janWx) |
+| 07/18 |  03.애플리케이션 구현 준비 | [🚀]() | [🌴]() | []() | []() | []() | 🎯 |
+| 07/18 | 04.회원 도메인 개발 | []() | [🪴](https://bit.ly/3RMFy4C) | []() | []() | []() | [⚽️](https://han.gl/Qvvja) |
+| 07/18 |  05.상품 도메인 개발 | []() | [🪷](https://bit.ly/3zfTWv6) | []() | []() | []() | 🏀 |
+| 07/19 |  06.주문 도메인 개발 | []() | []() | []() | []() | []() | []() |
+| 07/19 |  07.웹 계층 개발(~7-1) | []() | []() | []() | []() | []() | []() |
 
 </div>
 </details>
@@ -70,6 +72,6 @@ SSAFY 7th JPA 스터디
     <td align="center"><a href="https://github.com/seokchain"><img src="https://avatars.githubusercontent.com/u/98997009?v=4" width="100px;" alt=""/><br /><sub><b>seokchain</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/js0828"><img src="https://avatars.githubusercontent.com/u/68577534?v=4" width="100px;" alt=""/><br /><sub><b>js0828</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/choijoohee213"><img src="https://avatars.githubusercontent.com/u/60915285?s=400&u=81a3a3b178d0b215fd7a2c72bcf2d1834cb815e9&v=4" width="100px;" alt=""/><br /><sub><b>choijoohee213</b></sub></a><br /></td>
-    
+
   </tr>
 </table>
